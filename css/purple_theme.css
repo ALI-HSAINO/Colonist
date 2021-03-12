@@ -1,0 +1,12 @@
+.navbar-inverse, .navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form, .carousel-indicators li, .feature h3, .feature p, .subscribe input, .subscribe .btn-primary, .web .front-end, .web .back-end, .contact-us input, .contact-us textarea, .contact-us .btn ,.option-box .color-option {
+    border-color: purple;
+}
+
+.navbar-default .navbar-brand, .navbar-inverse .navbar-nav>li>a, .dropdown-menu>li>a, .glyphicon-chevron-left:before, .glyphicon-chevron-right:before, .carousel-caption, .about h1, .about .colonist, .feature h1, .feature .fa, .paid h1, .team .name, .team .info, .team .fa-facebook:hover و.team .fa-instagram:hover, .team .fa-twitter:hover, .team .fa-github:hover, .subscribe h1, .subscribe .btn-primary:hover, .subscribe .fa-id-card, .web p, .skills h1, .skills .info h3, .fa-commenting-o:before, .contact-us .btn:hover, .option-box .gear ,.team h1 {
+    color: purple;
+}
+
+.dropdown-menu .divider, .carousel-indicators .active {
+    background-color: purple;
+}
+
